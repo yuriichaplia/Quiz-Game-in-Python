@@ -9,10 +9,10 @@ This is a basic command-line quiz game built in Python. It presents the user wit
 - Final result displayed at the end
 
 ## 🛠️ Project Structure
-├── main.py # Runs the quiz
+├── main.py - Runs the quiz
 
-├── question_model.py # Defines the Question class
+├── question_model.py - Defines the Question class
 
-├── quiz_brain.py # Handles the quiz logic
+├── quiz_brain.py - Handles the quiz logic
 
-└── data.py # Contains the list of questions
+└── data.py - Contains the list of questions
